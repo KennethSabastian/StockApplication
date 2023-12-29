@@ -4,7 +4,8 @@ Nama : Kenneth Sabastian
 NIM : 1313621004
 
 Nama Aplikasi : Stock Aplication
-Link Youtube : 
+
+Link Youtube : https://youtu.be/7z6c-nynRoE
 
 #### Latar Belakang Pembuatan Aplikasi
 Alasan mengapa saya membuat aplikasi Stock Aplication adalah karena orang tua saya itu pedagang makanan. Dengan adanya aplikasi ini, lebih mudah untuk bisa keep track stock dari produk yang ada. Selain itu, jika ditambahkan lagi, aplikasi ini juga bisa digunakan sebagai tampilan menu untuk tempat dagangan orang tua.
