@@ -1,6 +1,7 @@
 ## Tugas UAS Mobcom
 
 Nama : Kenneth Sabastian
+
 NIM : 1313621004
 
 Nama Aplikasi : Stock Aplication
